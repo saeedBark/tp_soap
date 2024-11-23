@@ -18,7 +18,7 @@
       
     5- Quelle annotation est utilisée pour déclarer une méthode comme une opération SOAP en Jakarta ?
       L'annotation utilisée est @WebMethod.
-
+# exo2
   2. Questions Vrai/Faux
     SOAP ne supporte que le protocole HTTP.
     Faux. SOAP peut être utilisé avec plusieurs protocoles comme HTTP, SMTP ou JMS.
@@ -35,7 +35,7 @@
     WS-Security est utilisé pour protéger les messages SOAP.
     Vrai.  
 
- 3. 
+ #exo3 
   Calculator.java
 
    package com.example.calculator;
